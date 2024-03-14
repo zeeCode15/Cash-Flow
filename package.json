@@ -2,7 +2,7 @@
   "name": "splid",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://zeecode15.github.io/Cash-Flow",
+  "homepage": "http://zeecode15.github.io/cash-flow",
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
