@@ -1,0 +1,31 @@
+.container{
+    /* overflow: auto; */
+    /* background-color: #caf0f8; */
+
+    /* padding: 25px; */
+}
+
+.goBtn{
+    margin-left: 10px;
+}
+
+.show{
+    display: auto;
+}
+
+#hide{
+    display: none;
+}
+
+.sub-title
+{
+    color:#03045e;
+    margin: 25px;
+}
+
+.submit-btn{
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

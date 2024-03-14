@@ -1,0 +1,52 @@
+.header
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: white;
+
+    /* background-color: #0077b6; */
+    background-color: black;
+
+    height: 15vh;
+
+    font-weight: 400;
+    font-size: 3em;
+
+    /* font-family: "Gochi Hand", cursive; */
+
+    padding: 10px;
+
+    border: 10px solid white;
+
+    letter-spacing: 6px;
+}
+
+
+  
+
+.body{
+    height: 90vh;
+    background-color: #caf0f8;
+    padding: 10px;
+}
+
+.goBtn{
+    margin-left: 10px;
+}
+
+.noInputClass{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+}
+
+.prevSplit
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

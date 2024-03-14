@@ -1,0 +1,24 @@
+.currentStatus
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
+
+.suggestedPayment
+{
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+caption{
+    padding-bottom: 5px;
+}
+
+#settled
+{
+    padding: 5px;
+}
