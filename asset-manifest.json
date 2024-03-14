@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cash-Flow/static/css/main.cf12a0ee.css",
+    "main.js": "/Cash-Flow/static/js/main.e4a59523.js",
+    "index.html": "/Cash-Flow/index.html",
+    "main.cf12a0ee.css.map": "/Cash-Flow/static/css/main.cf12a0ee.css.map",
+    "main.e4a59523.js.map": "/Cash-Flow/static/js/main.e4a59523.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf12a0ee.css",
+    "static/js/main.e4a59523.js"
+  ]
+}
